@@ -15,6 +15,7 @@ class Person
   end
  
   class PartnerError < StandardError
+    puts 'haha'
   end
 end
  
